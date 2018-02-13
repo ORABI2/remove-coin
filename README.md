@@ -1,0 +1,2 @@
+# remove-coin
+the game
